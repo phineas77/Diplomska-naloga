@@ -1,0 +1,10 @@
+2x2 matrika    povrprečen čas = 0.14581425099999987	k=1 (703) k=2 (169) k=3 (127) k=4 (1)	standardna devijacija = 0.0992253201565003	status = 1000
+
+3x3 matrika    povrpečen čas = 15.21157249400002	k=1 (0) k=2 (273) k=3 (418) k=4 (271) k=5 (38)	standardna devijacija = 47.8404433708005	status = 979
+
+4x3 matrika    povrpečen čas = 89.97393725399996	k=1 (0) k=2 (124) k=3 (456) k=4(420)	standardna devijacija = 613.2035951196523	status = 874
+
+4x4 matrika    povrpečen čas = 676.5758416699999	k=1 (0) k=2 (4) k=3 (46) k=4 (50)	standardna devijacija = 670.2434067602101	status = 80
+
+5x3 matrika    povprečen čas = 578.24888181		k=1 (0) k=2 (6) k=3 (48) k=4 (46)	standardna devijacija = 615.3355233899525	status = 87
+
